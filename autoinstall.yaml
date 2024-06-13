@@ -3,8 +3,8 @@ autoinstall:
   version: 1
   identity:
     hostname: ubuntu
-    username: Akshay
-    password: '"@dmin123"'
+    username: Administrator
+    password: "$6$ym4kK9sqLnOAMW.3$kAdlPtutkL7QD/Ra7GKycxDe.Z/97H06RuphjOD2P6NH0mtulS.a6JMkNL02ovp0NwlERVkfsm5jRble/jBGC/"
   storage:
     layout:
       name: none
