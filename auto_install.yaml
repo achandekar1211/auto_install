@@ -14,8 +14,10 @@ autoinstall:
     - openssh-server
   late-commands:
     - curtin in-target -- apt update
+    - curtin in-target -- snap install firefox
+    - curtin in-target -- snap install onlyoffice-desktopeditors
     - curtin in-target -- apt install -y proton-vpn-gnome-desktop
     - curtin in-target -- apt install -y wget nano openssh-client openssh-server nano net-tools npm
     - curtin in-target -- apt install -y openjdk-8-jdk mysql-workbench node.js
     - curtin in-target -- npm install -g @angular/cli@17
-    - curtin in-target -- apt install software-properties-common apt-transport-https wget
+    - curtin in-target -- apt install -y software-properties-common apt-transport-https wget
