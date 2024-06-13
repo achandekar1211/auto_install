@@ -6,7 +6,7 @@ autoinstall:
     password: "@dmin123"
   storage:
     layout:
-      name: lvm
+      name: none
   packages:
     - vim
     - net-tools
