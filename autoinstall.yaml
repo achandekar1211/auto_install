@@ -4,7 +4,7 @@ autoinstall:
   identity:
     hostname: ubuntu
     username: Administrator
-    password: "$6$HNZIhPAK3EaiTO80$DXDQGs7FMk6tLNa4BoN3sPcGZ6KZiutaH2iJ0tIUy834DCKcqENeu4UnXNFvBK0y9IQm6hxNpB6c3DJfV2NUi1"
+    password: "$6$BuaXzIYKAQdJnnds$oWpCtYtF5JTZh1HkCBVi7z8WQ3OhlYP6BUyfENXik.1/L9Ep9jZHoydtUtA1BqSGvitaW9Cg46dTpGS1yXLEm/"
   storage:
     layout:
       name: none
