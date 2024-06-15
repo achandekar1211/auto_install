@@ -11,5 +11,8 @@ autoinstall:
   packages:
     - vim
     - net-tools
+    - wget
+    - npm
+    - openjdk-8-jdk
     - openssh-client
     - openssh-server
