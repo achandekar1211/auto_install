@@ -13,6 +13,7 @@ autoinstall:
     - net-tools
     - wget
     - npm
+    - samba
     - openjdk-8-jdk
     - openssh-client
     - openssh-server
